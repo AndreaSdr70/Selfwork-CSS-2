@@ -1,0 +1,58 @@
+*{
+    font-family: "Montserrat Subrayada", sans-serif;
+}
+
+
+nav{
+    background-color: rgba(38, 38, 38, 0.744);
+}
+
+nav ul{
+    
+    display:flex;
+    justify-content: center;    
+    height: 30%;
+    align-items: center;
+}
+
+.logoAulab{
+
+    width: 100px;
+    height: 100px;
+}
+
+
+.link{
+
+    text-decoration: none;
+    color: white;
+    margin: 0px 20px;
+}
+
+.listLink{
+
+    list-style-type: none;
+    
+}
+
+.header{
+
+    background-image: url(./media/notebook\ 4.jpg);
+    /* height: 80vh; */
+    /* background-size: cover; */
+
+}
+
+section{
+
+width: 60%;
+display:flex;
+    
+}
+
+aside{
+    height: 40%;
+    background-color: aqua;
+    
+    
+}
